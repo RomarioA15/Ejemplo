@@ -14,3 +14,5 @@ def suma_potencia():
 # Llamar a la función y mostrar el resultado
 resultado_final = suma_potencia()
 print(f"El resultado es: {resultado_final}")
+
+# Romario Javier Alban Moreta
